@@ -1,0 +1,5 @@
+git add .
+git commit -m "message"
+git push
+git branch
+git checkout name_of_branch
